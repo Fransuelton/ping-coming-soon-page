@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #4f7df3;
+  --error-message-color: #ff5263;
+  --border-or-hover-color: #c2d3ff;
+  --gray-color: #969696;
+  --bold-color: #151f29;
+
+  --default-font-size: 2rem;
+}
